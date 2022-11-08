@@ -1,5 +1,5 @@
 <a href="https://blog.naver.com/did3296" target="_blank"><img src="https://img.shields.io/badge/-Daily%20Blog-brightgreen"/></a>
-<a href="https://hyerimiya.notion.site/h1-HYERIM-CODING-h1-9f27a0562a98442fa052be02c2bc3e8e" target="_blank"><img src="https://img.shields.io/badge/-Dev%20Blog-blue"/></a>
+<a href="https://hyerimiya.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/-Dev%20Blog-blue"/></a>
 <a href="hyerimiya1216@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-hyerimiya1216%40gmail.com-ff69b4"/></a>
 
 안녕하세요👋   
