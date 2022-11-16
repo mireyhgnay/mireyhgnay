@@ -17,7 +17,7 @@
 ## 🔥 Studying
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 
-## 👩🏻‍💻 개발블로그(Dev Blog)       
+## 👩🏻‍💻 [개발블로그(Dev Blog)](https://hyerimiya.oopy.io/)       
 🎈 **[Daily](https://hyerimiya.oopy.io/daily)** | 하루하루를 계획하고, 생각 정리 이모저모 적는 곳
 
 🌏 **[Roadmap](https://hyerimiya.oopy.io/roadmap)** | 내가 업무를 해보고, 공부를 하면서 나만의 로드맵 만들기
