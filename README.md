@@ -17,27 +17,19 @@
 ## 🔥 Studying
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 
-## 개발블로그(Dev Blog)       
-🎈 **[Daily](https://hyerimiya.oopy.io/daily)**    
-하루하루를 계획하고, 생각 정리 이모저모 적는 곳✍️    
+## 👩🏻‍💻 개발블로그(Dev Blog)       
+🎈 **[Daily](https://hyerimiya.oopy.io/daily)** | 하루하루를 계획하고, 생각 정리 이모저모 적는 곳
 
-🌏 **[Roadmap](https://hyerimiya.oopy.io/roadmap)**    
-내가 업무를 해보고, 공부를 하면서 나만의 로드맵 만들기📍    
+🌏 **[Roadmap](https://hyerimiya.oopy.io/roadmap)** | 내가 업무를 해보고, 공부를 하면서 나만의 로드맵 만들기
 
-📁 **[Hyerim’s Library (UI Markup + JS Interaction Library)](https://hyerimiya.oopy.io/ui-library)**        
-나만의 기준을 세우고 나만의 라이브러리를 만든다🚀✨          
+📁 **[Hyerim’s Library (UI Markup + JS Interaction Library)](https://hyerimiya.oopy.io/ui-library)** | 나만의 기준을 세우고 나만의 라이브러리를 만든다          
 
-🔗 **[Reference](https://hyerimiya.oopy.io/reference)**     
-참고하기 좋은 링크들을 모아모아👍      
+🔗 **[Reference](https://hyerimiya.oopy.io/reference)** | 참고하기 좋은 링크들을 모아모아      
 
-🔨 **[Setting(MacOS)](https://hyerimiya.oopy.io/setting)**        
-각 프로그램 및 언어들을 사용하기 위한 셋팅 방법들      
+🔨 **[Setting(MacOS)](https://hyerimiya.oopy.io/setting)** | 각 프로그램 및 언어들을 사용하기 위한 셋팅 방법들      
 
-📚 **[Study](https://hyerimiya.oopy.io/study-project)**       
-공부하고있는 또는 진행하고있는 인터넷강의(online study), 팀스터디(team study), 개인프로젝트(project)      
+📚 **[Study](https://hyerimiya.oopy.io/study-project)** | 공부하고있는 또는 진행하고있는 인터넷강의, 팀스터디, 개인프로젝트
 
-👩‍💻 **[DEV](https://hyerimiya.oopy.io/dev)**               
-내가 공부하고 정리한 것들을 카테고리별로 모아모아
+👩‍💻 **[DEV](https://hyerimiya.oopy.io/dev)** | 내가 공부하고 정리한 것들을 카테고리별로 모아모아
 
-➕ **[ETC](https://hyerimiya.oopy.io/etc)**       
-그 외 모~든 것들을 기록하기      
+➕ **[ETC](https://hyerimiya.oopy.io/etc)** | 그 외 모~든 것들을 기록하기
