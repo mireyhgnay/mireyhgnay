@@ -1,3 +1,8 @@
+#### 안녕하세요:) UI개발자 양혜림입니다✨    
+저는 현재 UI개발자로 일을 하고 있고, 프론트 개발 스킬들을 정복하기 위해 항상 공부중이랍니다🚀     
+(🫢 TMI : 여행을 좋아하고, 뭐든지 기록하는 것을 좋아합니다)      
+
+
 ## 🔗 Contact
 <a href="https://blog.naver.com/did3296" target="_blank"><img src="https://img.shields.io/badge/-Daily%20Blog-brightgreen"/></a>
 <a href="https://hyerimiya-main.notion.site/HYERIMIYA-CODING-49f0920614764b13949932b4dfda847e" target="_blank"><img src="https://img.shields.io/badge/-Dev%20Blog-blue"/></a>
