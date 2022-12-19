@@ -4,7 +4,6 @@
 
 ## 🔗 Contact
 <a href="https://blog.naver.com/did3296" target="_blank"><img src="https://img.shields.io/badge/-Daily%20Blog-brightgreen"/></a>
-<a href="https://hyerimiya-main.notion.site/HYERIMIYA-CODING-49f0920614764b13949932b4dfda847e" target="_blank"><img src="https://img.shields.io/badge/-Dev%20Blog-blue"/></a>
 <a href="hyerimiya1216@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-hyerimiya1216%40gmail.com-ff69b4"/></a>
 <a href="did3296@naver.com" target="_blank"><img src="https://img.shields.io/badge/-did3296@naver.com-00ad00"/></a>
 
