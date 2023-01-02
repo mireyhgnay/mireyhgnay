@@ -1,5 +1,5 @@
-#### 안녕하세요:) UI개발자 양혜림입니다✨    
-저는 현재 UI개발자로 일을 하고 있고, 프론트 개발 스킬들을 정복하기 위해 항상 공부중이랍니다🚀      
+#### 안녕하세요:) 프론트엔드 개발자 양혜림입니다✨    
+꾸준히 성장하는 사람이 되기 위해 항상 공부중이랍니다🚀      
 
 
 ## 🔗 Contact
@@ -16,5 +16,6 @@
 <img src="https://img.shields.io/badge/Zeplin-FFE005?style=flat-square&logo=Zeplin&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
 
 ## 🏢 Careers
-* **TMON** UI Developer | 2021.07 - 
+* **TMON** Front-End Developer | 2023.01 - 
+* **TMON** Mark Up Developer | 2021.07 - 2022.12
 * **KBS** Web Designer & Web Publisher | 2018.04 - 2020.04
