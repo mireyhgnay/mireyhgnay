@@ -2,12 +2,6 @@
 꾸준히 성장하는 사람이 되기 위해 항상 공부중이랍니다🚀      
 
 
-## 🔗 Contact
-<a href="https://blog.naver.com/did3296" target="_blank"><img src="https://img.shields.io/badge/-Daily%20Blog-brightgreen"/></a>
-<a href="hyerimiya1216@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-hyerimiya1216%40gmail.com-ff69b4"/></a>
-<a href="did3296@naver.com" target="_blank"><img src="https://img.shields.io/badge/-did3296@naver.com-00ad00"/></a>
-
-
 ## 👩🏻‍💻 Skills & Tools
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=Sass&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Gulp-CF4647?style=flat-square&logo=gulp&logoColor=white"/>   
 
