@@ -11,6 +11,6 @@
 
 
 ## 🏢 Careers
-* **TMON** Front-End Developer | 2023.01 - 
+* **TMON(Giosis)** Front-End Developer | 2023.01 - 
 * **TMON** Mark Up Developer | 2021.07 - 2022.12
 * **KBS** Web Designer & Web Publisher | 2018.04 - 2020.04
