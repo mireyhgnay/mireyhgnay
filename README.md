@@ -8,6 +8,6 @@
 <img src="https://img.shields.io/badge/Zeplin-FFE005?style=flat-square&logo=Zeplin&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
 
 ## 🏢 Careers
-* **TMON(Giosis)** Front-End Developer | 2023.01 - 
-* **TMON** Mark Up Developer | 2021.07 - 2022.12
+* **TMON(Giosis)** Front-End | 2023.01 - ing
+* **TMON** Front-End(UI Developer) | 2021.07 - 2022.12
 * **KBS** Web Designer & Web Publisher | 2018.04 - 2020.04
