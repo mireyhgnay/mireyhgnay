@@ -25,6 +25,5 @@
 </div>
 
 <h3 align="center">🏢 Careers 🏢</h3>
-<div align="center"><strong>TMON(Giosis)</strong> Front-End | 2023.06 - ing</div>
-<div align="center"><strong>TMON</strong> Front-End | 2021.07 - 2023.05</div>
+<div align="center"><strong>TMON(Qoo10)</strong> Front-End | 2021.07 - 2024.08</div>
 <div align="center"><strong>KBS</strong> Web Designer & Web Publisher | 2018.04 - 2020.04</div>
