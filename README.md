@@ -27,11 +27,3 @@
 <h3 align="center">🏢 Careers 🏢</h3>
 <div align="center"><strong>TMON(Qoo10)</strong> Front-End | 2021.07 - 2024.08</div>
 <div align="center"><strong>KBS</strong> Web Designer & Web Publisher | 2018.04 - 2020.04</div>
-
-<br />
-
-<div align="center">
-  앞으로는,,,<br />
-  * 직접 구현한 프로젝트 위주로 올려두고, 리드미에 필요한 내용을 정리해두자 <br />
-  * 실무에서 겪은 내 경험들, 내 생각들은 기술블로그에 기록하자 <br />
-</div>
