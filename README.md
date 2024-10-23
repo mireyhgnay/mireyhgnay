@@ -32,6 +32,12 @@
       src="https://img.shields.io/badge/did3296@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white"/>
   </a>
 </div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/%ED%98%9C%EB%A6%BC-%EC%96%91-8872262b8/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
 
 <h3 align="center">🏢 Careers 🏢</h3>
 <div align="center"><strong>TMON(Qoo10)</strong> Front-End | 2021.07 - 2024.08</div>
