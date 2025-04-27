@@ -1,5 +1,6 @@
 <h3 align="center">프론트엔드 개발자 양혜림입니다🐰🍀</h3>
-<div align="center"><a href="https://hyerimiya.vercel.app/">🔗 HYERIMIYA PORTFOLIO 👉</a></div>
+<div align="center"><a href="https://hyerimiya.vercel.app/">HYERIMIYA PORTFOLIO 👉</a></div>
+<div align="center"><a href="https://hyerimiya.notion.site/Hyerim-Front-End-Developer-1d147244c10780108380d1e9c73e723c?pvs=4">HYERIMIYA NOTION TECH BLOG 👉</a></div>
 
 <br />
 
